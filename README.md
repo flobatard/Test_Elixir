@@ -1,6 +1,6 @@
 # ElixirProjectTest
 
-**TODO: Add description**
+Small project showing some elixir code
 
 ## Installation
 
@@ -18,4 +18,10 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/elixir_project_test>.
+
+## Run
+
+mix run
+
+iex -S mix
 
